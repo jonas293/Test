@@ -1,2 +1,3 @@
-# Test
-Test für Pycharm
+# NN
+Use it for LSTM NN 
+
