@@ -1,4 +1,7 @@
 class Person:
+    def __init__(self):
+        pass
 
-    def __init__(cls) -> None:
-        super().__init_subclass__()
+print("Hello")
+
+print("Hello2")  # Run only one line = alt+shift+e
